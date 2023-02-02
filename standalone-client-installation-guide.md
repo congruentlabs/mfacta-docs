@@ -1,16 +1,5 @@
 # Standalone Client Installation Guide
 
-## Signata MFA Standalone Client Installation Guide
-
-* [Signata MFA Standalone Client Installation Guide](https://github.com/cl-tim/signata-mfa-docs/blob/main/guide-standalone-client-installation.md#signata-mfa-standalone-client-installation-guide)
-  * [Client Package Installation](https://github.com/cl-tim/signata-mfa-docs/blob/main/guide-standalone-client-installation.md#client-package-installation)
-  * [Launching the Client](https://github.com/cl-tim/signata-mfa-docs/blob/main/guide-standalone-client-installation.md#launching-the-client)
-  * [Setting the Encryption Key](https://github.com/cl-tim/signata-mfa-docs/blob/main/guide-standalone-client-installation.md#setting-the-encryption-key)
-  * [Creating a Password](https://github.com/cl-tim/signata-mfa-docs/blob/main/guide-standalone-client-installation.md#creating-a-password)
-  * [Selecting Enrollment Agent](https://github.com/cl-tim/signata-mfa-docs/blob/main/guide-standalone-client-installation.md#selecting-enrollment-agent)
-  * [Enabling Certificate Templates](https://github.com/cl-tim/signata-mfa-docs/blob/main/guide-standalone-client-installation.md#enabling-certificate-templates)
-  * [Configuring Device Policies](https://github.com/cl-tim/signata-mfa-docs/blob/main/guide-standalone-client-installation.md#configuring-device-policies)
-
 ### Client Package Installation
 
 Download and run the **Signata Standalone Client Setup.exe** installer.
